@@ -1,1 +1,3 @@
-merging files 
+merging files
+resolvoing merge conflicts
+today - tuesday
