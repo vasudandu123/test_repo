@@ -1,3 +1,6 @@
 merging files
 resolvoing merge conflicts
 today - tuesday
+
+checking for merge conflict
+this is dev branch
