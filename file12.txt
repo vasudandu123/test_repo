@@ -2,5 +2,9 @@ merging files
 resolvoing merge conflicts
 today - tuesday
 
+HEAD
 checking for merge conflict
 this is dev branch
+=======
+trying to check merge conflict
+feature-1
