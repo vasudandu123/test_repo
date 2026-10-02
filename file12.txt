@@ -1,7 +1,1 @@
-merging files
-resolvoing merge conflicts
-today - tuesday
-checking for merge conflict
-this is dev branch
-trying to check merge conflict
-
+This is the rebase file
