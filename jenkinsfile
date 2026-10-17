@@ -17,6 +17,10 @@ pipeline {
                 // Optional: Run a list command to verify the directory was created
                 sh 'ls -la'
 
+                sh "chmod +x file12.sh"
+
+                sh "./file12.sh"
+
             }
         }
     }
