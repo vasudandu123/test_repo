@@ -5,6 +5,7 @@ pipeline {
         stage('Checkout Repository') {
             steps {
                 // Clones the exact Git repository and branch where this Jenkinsfile lives
+                cleanWs() 
                 checkout scm
             }
         }
