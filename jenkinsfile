@@ -19,7 +19,7 @@ pipeline {
                 sh 'ls -la'
                 sh "chmod +x file2.sh"
 
-                sh "./file2.sh"
+                 sh './file2.sh'
 
             }
         }
